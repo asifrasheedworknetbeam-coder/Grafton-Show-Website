@@ -1,0 +1,7 @@
+@keyframes wp-marquee{from{transform:translateX(0)}to{transform:translateX(-50%)}}
+@keyframes wp-spin{to{transform:rotate(360deg)}}
+@keyframes wp-pop-in{from{opacity:0;transform:scale(.92) translateY(8px)}to{opacity:1;transform:none}}
+@keyframes wp-toast-in{from{opacity:0;transform:translateY(16px)}to{opacity:1;transform:none}}
+.wp-display{font-family:var(--font-display);font-weight:var(--display-weight);font-stretch:var(--display-stretch);line-height:var(--display-leading);letter-spacing:var(--display-tracking);text-transform:uppercase}
+.wp-script{font-family:var(--font-script);font-weight:400;text-transform:none;letter-spacing:0}
+.wp-eyebrow{font-family:var(--font-body);font-size:var(--fs-eyebrow);font-weight:600;letter-spacing:var(--tracking-eyebrow);text-transform:uppercase}

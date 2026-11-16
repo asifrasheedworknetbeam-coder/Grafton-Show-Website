@@ -1,0 +1,8 @@
+:root{
+--ease-pop:cubic-bezier(.34,1.56,.64,1);/* @kind other */
+--ease-out:cubic-bezier(.22,1,.36,1);/* @kind other */
+--ease-in-out:cubic-bezier(.65,0,.35,1);/* @kind other */
+--dur-fast:140ms;/* @kind other */--dur-base:240ms;/* @kind other */--dur-slow:420ms;/* @kind other */--dur-marquee:28s;/* @kind other */
+--press-scale:.96;/* @kind other */--hover-lift:-3px;/* @kind other */
+--z-nav:50;/* @kind other */--z-overlay:90;/* @kind other */--z-dialog:100;/* @kind other */--z-toast:110;/* @kind other */
+}

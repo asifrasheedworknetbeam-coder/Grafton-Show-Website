@@ -1,0 +1,32 @@
+:root{
+--font-display:'Bricolage Grotesque','Arial Narrow',sans-serif;
+--font-display-alt:'Righteous','Bricolage Grotesque',sans-serif;
+--font-script:'Sacramento',cursive;
+--font-body:'Onest',system-ui,sans-serif;
+
+/* Display: heavy, condensed, uppercase, tight */
+--display-stretch:86%;/* @kind other */
+--display-weight:800;/* @kind other */
+--display-leading:0.86;/* @kind other */
+--display-tracking:-0.01em;/* @kind other */
+
+--fs-mega:clamp(64px,10vw,152px);/* @kind other */
+--fs-display:clamp(48px,7vw,96px);/* @kind other */
+--fs-h1:clamp(40px,5vw,64px);/* @kind other */
+--fs-h2:clamp(28px,3.2vw,40px);/* @kind other */
+--fs-h3:24px;/* @kind other */
+--fs-h4:19px;/* @kind other */
+--fs-lead:18px;/* @kind other */
+--fs-body:16px;/* @kind other */
+--fs-small:14px;/* @kind other */
+--fs-micro:12px;/* @kind other */
+--fs-eyebrow:11px;/* @kind other */
+
+--lh-tight:1.05;/* @kind other */--lh-snug:1.2;/* @kind other */--lh-body:1.55;/* @kind other */
+--tracking-eyebrow:0.08em;/* @kind other */--tracking-button:0.04em;/* @kind other */
+
+/* Semantic */
+--type-heading-font:var(--font-display);/* @kind other */
+--type-body-font:var(--font-body);/* @kind other */
+--type-accent-font:var(--font-script);/* @kind other */
+}

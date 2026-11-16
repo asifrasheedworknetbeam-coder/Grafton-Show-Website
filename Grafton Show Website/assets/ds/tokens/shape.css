@@ -1,0 +1,13 @@
+:root{
+--radius-xs:6px;--radius-sm:10px;--radius-md:16px;--radius-lg:24px;--radius-xl:36px;--radius-2xl:56px;--radius-pill:999px;
+--radius-card:var(--radius-lg);--radius-panel:var(--radius-xl);--radius-control:var(--radius-pill);
+--border-w:1.5px;--border-w-bold:2px;
+
+/* Shadows: mostly flat. Green-tinted, never grey. */
+--shadow-none:none;
+--shadow-sm:0 2px 6px rgba(27,64,31,.08);
+--shadow-md:0 10px 24px -8px rgba(27,64,31,.22);
+--shadow-lg:0 24px 48px -16px rgba(27,64,31,.30);
+--shadow-sticker:0 0 0 6px var(--white),0 10px 22px -6px rgba(27,64,31,.28);
+--shadow-press:inset 0 2px 0 rgba(0,0,0,.12);
+}

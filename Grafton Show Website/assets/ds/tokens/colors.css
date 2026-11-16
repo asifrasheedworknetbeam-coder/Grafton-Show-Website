@@ -1,0 +1,17 @@
+:root{
+/* Base palette — "Trend 2026": Dark Emerald, Celadon, Golden Pollen, Bubblegum Tint, Fuchsia Flame */
+--cream-50:#FFFDF6;--cream-100:#FAF6EA;--cream-200:#F2ECDA;--cream-300:#E6DDC3;
+--mint-100:#EEF5E8;--mint-200:#DCEBD6;--mint-300:#C3DDBF;
+--green-100:#E1EEDF;--green-300:#5E9A66;--green-500:#286633;--green-600:#1F5329;--green-700:#17401F;
+--celadon-100:#E6F1E5;--celadon-300:#9CC69B;--celadon-500:#7FB27E;--celadon-600:#5E955D;
+--pink-100:#FDE8F0;--pink-200:#FBCFE0;--pink-300:#F591B5;--pink-500:#D72887;--pink-600:#B81C70;
+--yellow-100:#FFF4D9;--yellow-300:#FFDD94;--yellow-500:#FFC855;--yellow-600:#F2AE1F;
+--ink-900:#1B3520;--ink-800:#26432C;--ink-700:#3E5A43;--ink-500:#6B806C;--ink-300:#AEBDAA;--ink-200:#DCE3D2;
+--white:#FFFFFF;
+--leaf-500:#2E9E62;--leaf-100:#DDF3E5;--berry-500:#D9342B;--berry-100:#FCE0DC;
+--bg-page:var(--cream-100);--bg-sunken:var(--cream-200);--surface-card:var(--cream-50);--surface-card-warm:var(--mint-100);--surface-card-blush:var(--pink-100);--surface-inverse:var(--green-500);--surface-pop:var(--pink-500);
+--text-strong:var(--ink-900);--text-body:var(--ink-800);--text-muted:var(--ink-500);--text-on-accent:var(--white);--text-accent:var(--green-500);--text-accent-alt:var(--pink-500);
+--accent:var(--green-500);--accent-hover:var(--green-600);--accent-press:var(--green-700);--accent-soft:var(--green-100);--accent-2:var(--pink-500);--accent-2-soft:var(--pink-100);--accent-3:var(--yellow-500);--accent-4:var(--celadon-300);
+--border-subtle:var(--ink-200);--border-strong:var(--ink-900);--border-accent:var(--green-500);--focus-ring:var(--pink-500);
+--status-success:var(--leaf-500);--status-success-soft:var(--leaf-100);--status-error:var(--berry-500);--status-error-soft:var(--berry-100);--status-warning:var(--yellow-600);--status-warning-soft:var(--yellow-100);
+}
